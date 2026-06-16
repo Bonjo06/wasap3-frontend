@@ -52,7 +52,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Wasap-2</h1>
+        <h1>Wasap-3</h1>
         <p className={statusClassName}>{status}</p>
         
         <div className="chat-container">
